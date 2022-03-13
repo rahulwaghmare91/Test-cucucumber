@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-06T19:28:53 GMT-08:00" name="Default suite" finished-at="2022-03-06T19:29:14 GMT-08:00" duration-ms="20516">
+    <groups>
+    </groups>
+    <test started-at="2022-03-06T19:28:53 GMT-08:00" name="Default test" finished-at="2022-03-06T19:29:14 GMT-08:00" duration-ms="20516">
+      <class name="j.CreateIssue">
+        <test-method signature="createIssue()[pri:1, instance:j.CreateIssue@56cdfb3b]" started-at="2022-03-06T19:28:54 GMT-08:00" name="createIssue" finished-at="2022-03-06T19:29:09 GMT-08:00" duration-ms="15235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createIssue -->
+        <test-method signature="getIssueByKey()[pri:2, instance:j.CreateIssue@56cdfb3b]" started-at="2022-03-06T19:29:09 GMT-08:00" name="getIssueByKey" finished-at="2022-03-06T19:29:11 GMT-08:00" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getIssueByKey -->
+        <test-method signature="addCommentToIssue()[pri:3, instance:j.CreateIssue@56cdfb3b]" started-at="2022-03-06T19:29:11 GMT-08:00" name="addCommentToIssue" finished-at="2022-03-06T19:29:13 GMT-08:00" duration-ms="1985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCommentToIssue -->
+        <test-method signature="getCommentBYKey()[pri:4, instance:j.CreateIssue@56cdfb3b]" started-at="2022-03-06T19:29:13 GMT-08:00" name="getCommentBYKey" finished-at="2022-03-06T19:29:14 GMT-08:00" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCommentBYKey -->
+      </class> <!-- j.CreateIssue -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
